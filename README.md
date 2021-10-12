@@ -29,12 +29,18 @@ Menjalankan project:
 Syarat untuk bisa menjalan project ini adalah:
 
 - pastikan di komputer anda sudah terinstall:
-    - GIT (minimal versi 2.25.1)
-    -
+    - GIT (min v2.25.1 or higher)
+    - Node.js (min v14.15.4 or higher)
+    - NPM (min v7.23.0 or higer)
 
 Langkah pertama untuk memulai project sbb:
 
-- 
+di terminal copas code berikut:
+
+```bash
+
+
+```
 
 *buat file .env sejajar dengan file pacckage.json dan isi file tsb dengan*: 
 #### SECRET_KEY=mysecret
