@@ -59,10 +59,10 @@ SECRET_KEY=mysecret
 
 ## Authors
 
-- **M Rizki** -  [https://github.com/emrizki](https://github.com/emrizki)
-- **Deandro Farlinno** - [https://github.com/noobstonks]
-- **Biandi** - [https://github.com/biandi0107]
 - **Anton** - [https://github.com/antonanggoro]
+- **Biandi** - [https://github.com/biandi0107]
+- **Deandro Farlinno** - [https://github.com/noobstonks]
+- **M Rizki** -  [https://github.com/emrizki](https://github.com/emrizki)
 
 ## License 📄
 
